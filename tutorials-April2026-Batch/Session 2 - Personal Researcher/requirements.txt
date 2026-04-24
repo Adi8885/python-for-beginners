@@ -1,0 +1,8 @@
+beautifulsoup4
+google-genai
+elevenlabs
+wikipedia
+python-dotenv
+requests
+rich
+streamlit
