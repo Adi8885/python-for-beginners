@@ -1,5 +1,6 @@
 import os
 import sqlite3
+# pyrefly: ignore [missing-import]
 from fastapi import FastAPI, HTTPException, Query
 
 app = FastAPI(
