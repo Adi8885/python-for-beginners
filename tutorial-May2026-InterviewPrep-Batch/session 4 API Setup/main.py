@@ -3,6 +3,12 @@ import sqlite3
 # pyrefly: ignore [missing-import]
 from fastapi import FastAPI, HTTPException, Query
 
+#app = FastAPI()
+#
+#@app.get("/")
+#def read_root():
+#    return {"Hello": "World"}
+
 app = FastAPI(
     title="IMDB Movie Ratings API",
     description="API to query ratings and voter turnout from the SQL IMDB Database.",

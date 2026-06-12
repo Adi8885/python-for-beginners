@@ -1,0 +1,6 @@
+Transaction_ID,Customer_Type,City,Product,Region,Revenue,Score
+TXN001,Premium,Mumbai,Laptop,North,125000,95
+TXN002,Standard,Delhi,Tablet,East,45000,78
+TXN003,Premium,Mumbai,Smartphone,West,85000,88
+TXN004,Premium,Bengaluru,Laptop,North,140000,92
+TXN005,Standard,Mumbai,Laptop,North,110000,64

@@ -1,0 +1,6 @@
+Customer_ID,Transaction_Date,Amount,Region,Category
+CUST101,2026-01-01,15000,North,Electronics
+CUST102,2026-01-05,4500,South,Apparel
+CUST103,2026-01-10,25000,West,Electronics
+CUST101,2026-01-30,8500,North,Home Decor
+CUST104,2026-02-09,1200,East,Apparel
