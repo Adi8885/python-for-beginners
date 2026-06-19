@@ -1,0 +1,13 @@
+customer_id,category,revenue,cost,region,quantity,age
+C001,Electronics,12000,9000,North,2,25
+C002,Kitchen,800,600,South,1,15
+C003,Electronics,15000,11000,North,3,45
+C004,Apparel,3500,2000,East,4,30
+C005,Stationery,450,300,West,5,12
+C006,Kitchen,2500,1800,South,2,62
+C007,Apparel,6000,4000,East,3,19
+C008,Electronics,8000,6000,West,1,65
+C009,Stationery,1200,800,North,8,35
+C010,Kitchen,4500,3200,West,4,28
+C011,Apparel,950,700,South,1,50
+C012,Electronics,22000,16000,East,2,38
