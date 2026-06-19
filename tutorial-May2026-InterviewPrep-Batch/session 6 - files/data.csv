@@ -1,0 +1,9 @@
+id,name,age,city,score,signup_date
+1,Amit,23,Mumbai,85.0,2023-01-15
+2,Priya,28,Delhi,92.0,2023-02-20
+3,Rohan,22,Mumbai,,2023-03-10
+4,Sneha,31,Bangalore,78.0,2023-04-05
+5,Vikram,45,Chennai,88.0,2023-05-12
+6,Neha,,Delhi,95.0,2023-06-18
+7,Rahul,35,Mumbai,60.0,2023-07-22
+8,Anjali,19,Bangalore,82.0,2023-08-09

@@ -1,0 +1,29 @@
+customer_id,tenure,monthly_charges,total_charges,contract_type,churn
+7590-VHVEG,12,70.35,844.20,Month-to-month,No
+5575-GNVDE,34,56.95,1889.50,One year,No
+3668-QPYBK,2,53.85,108.15,Month-to-month,Yes
+7795-CFOCW,45,42.30,1840.75,One year,No
+9237-HQITU,2,70.70,151.65,Month-to-month,Yes
+9305-CDKCW,8,99.65,820.50,Month-to-month,Yes
+1452-KIOVK,22,89.10,1949.40,Month-to-month,No
+6713-OKOMC,10,29.75,301.90,Month-to-month,No
+7892-POOKP,28,104.80,3046.05,Month-to-month,Yes
+6388-TABGU,62,56.15,3487.95,One year,No
+9763-GRSJV,13,49.95,587.45,Month-to-month,No
+7469-LKCVX,16,18.95,325.60,Two year,No
+5129-JBOVU,9,110.50,994.50,Month-to-month,Yes
+3655-SNQVE,38,95.50,3657.40,One year,No
+0280-XJGEX,49,103.70,5036.30,Month-to-month,Yes
+5709-LVOEQ,0,80.85, ,Two year,No
+3668-WAJBK,3,64.75,194.25,Month-to-month,Yes
+2967-MXDTV,1,50.15,50.15,Month-to-month,Yes
+8918-UUYVY,12,85.25,1023.00,Month-to-month,No
+0012-DKSBL,52,60.50,3146.00,Two year,No
+0015-UOCOI,7,50.30,352.10,Month-to-month,No
+0016-QLJIS,65,90.45,5955.00,Two year,No
+0017-DINOC,54,45.20,2466.00,Two year,No
+0019-EFAEP,72,115.50,8316.00,Two year,No
+0019-GFUXD,6,80.25,481.50,Month-to-month,Yes
+0020-JSMGI,1,90.35,90.35,Month-to-month,Yes
+0021-GEMQD,15,65.40,981.00,One year,No
+0022-TCKLI,4,80.60,322.40,Month-to-month,Yes
